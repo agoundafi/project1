@@ -1,0 +1,12 @@
+{
+  "name": "vagoundafi/project1",
+  "description": "projet test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "agoundafi",
+      "email": "goundafi.abdelali@gmail.com"
+    }
+  ]
+}
